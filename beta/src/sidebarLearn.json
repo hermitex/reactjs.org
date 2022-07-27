@@ -172,8 +172,16 @@
               "path": "/learn/you-might-not-need-an-effect"
             },
             {
-              "title": "Adjusting Effect Dependencies",
-              "path": "/learn/adjusting-effect-dependencies"
+              "title": "Lifecycle of Reactive Effects",
+              "path": "/learn/lifecycle-of-reactive-effects"
+            },
+            {
+              "title": "Opting Out of Reactivity with Events",
+              "path": "/learn/extracting-non-reactive-events"
+            },
+            {
+              "title": "Removing Effect Dependencies",
+              "path": "/learn/removing-effect-dependencies"
             }
           ]
         }
